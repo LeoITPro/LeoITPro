@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo.
 - 👀 I’m interested in the cloud.
-- 🌱 I’m currently learning everything I can about Azure and Devops. Hopefully all this effort can lead to a cloud related job!!!
+- 🌱 I’m currently learning everything I can about Azure and Devops.
  
 - 📫 How to reach me ... LeoITPro@outlook.com
 
